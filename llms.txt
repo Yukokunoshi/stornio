@@ -1,0 +1,54 @@
+# Stornio
+
+> Stornio is a subscription tracker and cancellation-letter app for iOS and Android (first market: Hungary, then Germany and the EU). No account, no bank connection, no server storing user data: everything stays on the device. It prepares withdrawal, cancellation and complaint letters from templates; the user sends them. It is not a legal service and does not give legal advice.
+
+- App Store: https://apps.apple.com/app/id6828555991
+- Google Play: https://play.google.com/store/apps/details?id=hu.iade.iade
+- Support: https://yukokunoshi.github.io/stornio/index-en.html
+- Privacy: https://yukokunoshi.github.io/stornio/privacy-en.html
+
+## Guides (English)
+
+General information about EU consumer rules (Directive 2011/83/EU, Directive (EU) 2019/771, Directive (EU) 2015/2366), not legal advice.
+
+- [How to return an online purchase in the EU (14-day right of withdrawal)](https://yukokunoshi.github.io/stornio/guides/en/return-online-purchase-eu-14-day-withdrawal/): The EU 14-day right of withdrawal for online, phone and doorstep purchases: when the 14 days start, how to withdraw, who pays for the return and when you get your money back.
+- [How long do I have to return something I bought in a shop?](https://yukokunoshi.github.io/stornio/guides/en/return-item-bought-in-shop/): There is no general EU right to return a non-faulty item bought in a physical shop. What the shop's return policy means, and what you can do if the item is faulty.
+- [How to cancel a subscription and get a refund, step by step](https://yukokunoshi.github.io/stornio/guides/en/cancel-subscription-get-refund/): A practical order of steps for cancelling a subscription: find where you signed up, check the terms, cancel in writing, keep proof, and when you can ask for money back.
+- [Statutory warranty (legal guarantee) vs. commercial warranty in the EU](https://yukokunoshi.github.io/stornio/guides/en/legal-guarantee-vs-commercial-warranty-eu/): The EU legal guarantee lasts at least two years and is free; a commercial warranty is an extra, voluntary promise. What each covers and whom to contact.
+- [How to keep receipts and warranty documents in one place](https://yukokunoshi.github.io/stornio/guides/en/keep-receipts-warranty-documents-one-place/): A simple system for receipts, invoices, contracts and warranty documents, so you can prove a purchase or a cancellation when you need to.
+- [Free-trial traps: how to not get charged](https://yukokunoshi.github.io/stornio/guides/en/free-trial-avoid-being-charged/): How free trials turn into paid subscriptions, and a short checklist to cancel in time: note the end date, set a reminder, cancel in the right place, keep proof.
+- [Template: letter to cancel a subscription](https://yukokunoshi.github.io/stornio/guides/en/subscription-cancellation-letter-template/): A free, short template for cancelling a subscription in writing, plus the EU model wording for withdrawing within 14 days. Copy it and fill in your details.
+- [Charged after cancelling a subscription? How to get the money back](https://yukokunoshi.github.io/stornio/guides/en/charged-after-cancelling-get-money-back/): What to do if a company keeps charging you after you cancelled: write to them with proof, and what your bank can do for direct debits and unauthorised payments.
+
+## Elállás, előfizetés-lemondás és szavatosság az EU-ban (hu)
+
+- [Hogyan küldhetem vissza az online vásárolt terméket? (14 napos elállási jog az EU-ban)](https://yukokunoshi.github.io/stornio/guides/hu/return-online-purchase-eu-14-day-withdrawal/)
+- [Mennyi időm van visszavinni a boltban vett terméket?](https://yukokunoshi.github.io/stornio/guides/hu/return-item-bought-in-shop/)
+- [Előfizetés lemondása és a pénz visszakérése lépésről lépésre](https://yukokunoshi.github.io/stornio/guides/hu/cancel-subscription-get-refund/)
+- [Kellékszavatosság vagy kereskedelmi jótállás: mi a különbség az EU-ban?](https://yukokunoshi.github.io/stornio/guides/hu/legal-guarantee-vs-commercial-warranty-eu/)
+- [Hogyan tartsd egy helyen a blokkokat és a jótállási dokumentumokat?](https://yukokunoshi.github.io/stornio/guides/hu/keep-receipts-warranty-documents-one-place/)
+- [Az ingyenes próbaidő csapdái: így kerülheted el, hogy megterheljenek](https://yukokunoshi.github.io/stornio/guides/hu/free-trial-avoid-being-charged/)
+- [Felmondó levél minta előfizetés lemondásához](https://yukokunoshi.github.io/stornio/guides/hu/subscription-cancellation-letter-template/)
+- [Lemondtad az előfizetést, mégis megterheltek? Így kérheted vissza a pénzt](https://yukokunoshi.github.io/stornio/guides/hu/charged-after-cancelling-get-money-back/)
+
+## Rückgabe, Abos und Gewährleistung in der EU (de)
+
+- [Online-Kauf zurückgeben in der EU: das 14-tägige Widerrufsrecht](https://yukokunoshi.github.io/stornio/guides/de/return-online-purchase-eu-14-day-withdrawal/)
+- [Wie lange kann ich etwas zurückgeben, das ich im Laden gekauft habe?](https://yukokunoshi.github.io/stornio/guides/de/return-item-bought-in-shop/)
+- [Abo kündigen und Geld zurückbekommen: Schritt für Schritt](https://yukokunoshi.github.io/stornio/guides/de/cancel-subscription-get-refund/)
+- [Gesetzliche Gewährleistung oder Garantie: der Unterschied in der EU](https://yukokunoshi.github.io/stornio/guides/de/legal-guarantee-vs-commercial-warranty-eu/)
+- [Kassenbons und Garantieunterlagen an einem Ort aufbewahren](https://yukokunoshi.github.io/stornio/guides/de/keep-receipts-warranty-documents-one-place/)
+- [Kostenlose Testphase: So vermeidest du ungewollte Abbuchungen](https://yukokunoshi.github.io/stornio/guides/de/free-trial-avoid-being-charged/)
+- [Vorlage: Kündigungsschreiben für ein Abo](https://yukokunoshi.github.io/stornio/guides/de/subscription-cancellation-letter-template/)
+- [Nach der Kündigung trotzdem abgebucht? So holst du dein Geld zurück](https://yukokunoshi.github.io/stornio/guides/de/charged-after-cancelling-get-money-back/)
+
+## AB'de iade, abonelik ve garanti (tr)
+
+- [AB'de internetten alınan ürün nasıl iade edilir (14 günlük cayma hakkı)](https://yukokunoshi.github.io/stornio/guides/tr/return-online-purchase-eu-14-day-withdrawal/)
+- [Mağazadan aldığım ürünü kaç gün içinde iade edebilirim?](https://yukokunoshi.github.io/stornio/guides/tr/return-item-bought-in-shop/)
+- [Abonelik nasıl iptal edilir ve para iadesi nasıl alınır, adım adım](https://yukokunoshi.github.io/stornio/guides/tr/cancel-subscription-get-refund/)
+- [AB'de yasal garanti ile ticari garanti (üretici garantisi) arasındaki fark](https://yukokunoshi.github.io/stornio/guides/tr/legal-guarantee-vs-commercial-warranty-eu/)
+- [Fişler ve garanti belgeleri tek bir yerde nasıl saklanır](https://yukokunoshi.github.io/stornio/guides/tr/keep-receipts-warranty-documents-one-place/)
+- [Ücretsiz deneme tuzakları: ücret çekilmesinden nasıl kaçınılır](https://yukokunoshi.github.io/stornio/guides/tr/free-trial-avoid-being-charged/)
+- [Abonelik iptal dilekçesi örneği: hazır mektup şablonu](https://yukokunoshi.github.io/stornio/guides/tr/subscription-cancellation-letter-template/)
+- [Aboneliği iptal ettim ama para çekildi: paramı nasıl geri alırım?](https://yukokunoshi.github.io/stornio/guides/tr/charged-after-cancelling-get-money-back/)
